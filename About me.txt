@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> About me </title>
+</head>
+<body style="background-color:PaleGreen">
+<h1 style="color:MediumSeaGreen;font-family:verdana;text-align:center"> About me </h1>
+<hr>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Home%20Page.html"> Home </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Flowering%20Plants%20Page.html"> Flowering </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Non-Flowering%20Page.html"> Non-Flowering </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Diagram%20Page.html"> Diagram </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Gymnosperm%20Page.html"> Gymnosperm </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Angiosperm%20Page.html"> Angiosperm </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Mosses%20Page.html"> Mosses </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Ferns%20Page.html"> Ferns </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/About%20me.html"> About me </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Contact%20me.html"> Contact me </a>
+<br>
+<br>
+<p style="text-align:center;font-size:30px;font-family:Champagne & Limousines;">Hi, I'm <b>Bae Rahima M. Mindalano</b>, and I am a student. I am currently studying at the MSU Institute of Science Education (MSU-ISED). I'm passionate about creating projects that make a difference in people's lives. From building websites to creating educational websites, I use my skills and creativity to create positive change. My current project is to make an educational website, and I chose to make a website about plants since I am a nature lover, and I think that people who are nature lovers like me will like it.</p>
+</body>
+</html>

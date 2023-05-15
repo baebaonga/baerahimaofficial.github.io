@@ -1,0 +1,28 @@
+<html>
+<head>
+<title> Flowering Plants </title>
+</head>
+<body style="background-color:PaleGreen">
+<h1 style="color:Olivedrab;font-family=Arial Rounded MT Bold;text-align:center"> Flowering plants </h1>
+<hr>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Home%20Page.html"> Home </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Flowering%20Plants%20Page.html"> Flowering </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Non-Flowering%20Page.html"> Non-Flowering </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Diagram%20Page.html"> Diagram </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Gymnosperm%20Page.html"> Gymnosperm </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Angiosperm%20Page.html"> Angiosperm </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Mosses%20Page.html"> Mosses </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Ferns%20Page.html"> Ferns </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/About%20me.html"> About me </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Contact%20me.html"> Contact me </a>
+<p style="font-size:20px;font-family:Arial Rounded MT Bold;"><b>Flowering plants</b> are one of the most varied and prolific groupings on the planet, accounting for the bulk of both terrestrial and aquatic ecosystems. Most rely on the transmission of energy from the sun and their unique adaptations to thrive in a broad range of settings, from tropical rainforests to chilly temperate woods, deserts, and even Arctic tundras. These plants have evolved a unique set of adaptations, including specialized flower structures, fruits, and vegetables that allow them to reproduce and disperse their seeds into new settings.For thousands of years, these succulent and lovely blooms have given humanity with nutrition and natural medicines, and they continue to add to some of the world's most beautiful landscapes. Flowering plants are also crucial for supplying critical food supplies for both insects and vertebrates, and many of these plants are thought to constitute a key component of the global food chain. Flowering plants are essential to human culture and the cycle of life, from carrots and squash to flowers like roses, sunflowers, and daisies.</p>
+<p style="font-size:20px;font-family:Arial Rounded MT Bold;"><b>Flowering plants</b> are important for several reasons. Firstly,they play an important role in the reproduction of many animal species, including humans. Bees, butterflies, and other insects are drawn to the flowers' bright colors and sweet nectar, and they pollinate the plant as they feed. Many plants and the animals that rely on them rely on this process to survive.</p>
+<p style="font-size:30px;"><b>Below are examples with illustration of Flowering Plants:</b></p>
+<p style="font-size:24px;font-family:Arial Rounded MT Bold;"><b>(1)Gymnosperm</b></p>
+<img src="C:\users\msu-wone\desktop\website\Gymnosperm.jpg" width="50%"height="60%">
+<P style="font-size:20px;"><b>&copy; ThoughtsCo https://www.thoughtco.com/thmb/QsqQ2DiGEW0lQqdkzYtyuLI-G40=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/cycad_cones-5ae333e9a9d4f9003736fc5e.jpg</b></p>
+<p style="font-size:24px;font-family:Arial Rounded MT Bold;"><b>(2)Angiosperm</b></p>
+<img src="C:\users\msu-wone\desktop\website\Angiosperm.jpg" width="50%"height="60%">
+<P style="font-size:20px;"><b>&copy; ThoughtsCo https://fthmb.tqn.com/sC5I2hxZ7g_Xq7Eun45fJZkZ780=/1500x1000/filters:fill(auto,1)/sunflowers-56a09b665f9b58eba4b205d1.jpg</b></p>
+</body>
+<html>

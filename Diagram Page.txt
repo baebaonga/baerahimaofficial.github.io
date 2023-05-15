@@ -1,0 +1,20 @@
+<html>
+<head>
+<title> Plant Classification Diagram </title>
+</head>
+<body style="background-color:PaleGreen;">
+<h1 style="text-align:center;font-family:Book Antiqua;"> Plant Classification Diagram </h1>
+<hr>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Home%20Page.html"> Home </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Flowering%20Plants%20Page.html"> Flowering </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Non-Flowering%20Page.html"> Non-Flowering </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Diagram%20Page.html"> Diagram </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Gymnosperm%20Page.html"> Gymnosperm </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Angiosperm%20Page.html"> Angiosperm </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Mosses%20Page.html"> Mosses </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Ferns%20Page.html"> Ferns </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/About%20me.html"> About me </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Contact%20me.html"> Contact me </a>
+<img src="C:\users\msu-wone\Desktop\Diagram.jpg">
+</body>
+</html>

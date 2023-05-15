@@ -1,0 +1,26 @@
+<html>
+<head>
+<title> Ferns </title>
+</head>
+<body style="background-color:PaleGreen">
+<h1 style="color:MediumSeaGreen;font-family:verdana;text-align:center"> Ferns </h1>
+<hr>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Home%20Page.html"> Home </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Flowering%20Plants%20Page.html"> Flowering </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Non-Flowering%20Page.html"> Non-Flowering </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Diagram%20Page.html"> Diagram </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Gymnosperm%20Page.html"> Gymnosperm </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Angiosperm%20Page.html"> Angiosperm </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Mosses%20Page.html"> Mosses </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Ferns%20Page.html"> Ferns </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/About%20me.html"> About me </a>
+<a href="file:///C:/Users/msu-wone/Desktop/Website/Contact%20me.html"> Contact me </a>
+<p style="font-size:20px;font-family:Arial Rounded MT Bold;"><b>Ferns</b> are some of the oldest plants to inhabit the earth. Found in a variety of habitats, ranging from tropical rainforests to temperate forests, ferns have been around since prehistoric times. Today they remain a source of wonder and intrigue, both because of their unusual appearance and fascinating reproductive methods.</p>
+<p style="font-size:20px;font-family:Arial Rounded MT Bold;">The term "fern" refers to a very diverse group of plants, each with their own distinct shapes, colors, and characteristics. These plants come in a huge variety of sizes, from tiny varieties to massive species that can grow to be seven feet tall. Fern species also have a wide range of leaf shape and texture, with some having large, flat, feathery fronds and others having thinly sliced, pickle-like leaves.</p>
+<p style="font-size:20px;font-family:Arial Rounded MT Bold;">Despite their distinct differences, all ferns reproduce in the same way. The production of microscopic single-celled spores is referred to as "sporogenesis" in this case. As they are deposited and develop in the soil, these spores become the fern's new life, eventually growing into full-sized plants. Although these spores are not visible to the naked eye, they are extremely resilient, capable of remaining alive and viable almost indefinitely under the right conditions.</p>
+<p style="font-size:20px;font-family:Arial Rounded MT Bold;">Furthermore, the biology of ferns is fascinating in and of itself. Ferns, for example, are among the few plants that can photosynthesise without the presence of flowers or fruit. This is due to the unusual arrangement of light-sensitive leaves known as "thalli" that cover their surfaces.</p>
+<p style="font-size:20px;font-family:Arial Rounded MT Bold;">Finally, because of their visual beauty and representational power, ferns have become popular subjects in art and culture. They frequently represent growth, renewal, and even mystery, and have inspired some of the most well-known works of literature and art.</p>
+<p style="font-size:20px;font-family:Arial Rounded MT Bold;">Last but not least, ferns are a common topic in art and culture because of their striking aesthetic appeal and potent symbolic qualities. Inspiring some of the most well-known pieces of literature and art, they frequently stand for regeneration, expansion, and even mystery.</p>
+</body>
+</html>
+
